@@ -1,5 +1,4 @@
 # firebasecrud
-DSW02B1 Webtest 2 project
 
 Expectations
 1. Create user authentication with firebase
